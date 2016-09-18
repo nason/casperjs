@@ -350,7 +350,7 @@ Emitted when the HTTP response corresponding to current required url has been re
 ``page.resource.requested``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Arguments:** ``request``
+**Arguments:** ``requestData, request``
 
 Emitted when a new HTTP request is performed to open the required url.
 
